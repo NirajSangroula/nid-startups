@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ishan/Ishan.iml" filepath="$PROJECT_DIR$/Ishan/Ishan.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/nid-startups.iml" filepath="$PROJECT_DIR$/.idea/nid-startups.iml" />
-    </modules>
-  </component>
-</project>
